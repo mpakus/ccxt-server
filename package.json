@@ -1,6 +1,6 @@
 {
   "name": "ccxt-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CCXT Node.js REST Server",
   "main": "index.js",
   "dependencies": {
