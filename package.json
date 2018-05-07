@@ -1,0 +1,36 @@
+{
+  "name": "ccxt-server",
+  "version": "1.0.0",
+  "description": "CCXT Node.js REST Server",
+  "main": "index.js",
+  "dependencies": {
+    "ccxt": "^1.11",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "run": "bin/ccxt-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpakus/ccxt-server.git"
+  },
+  "keywords": [
+    "ccxt",
+    "cryptocurrency",
+    "btc",
+    "eth",
+    "ltc",
+    "usdt",
+    "crypto"
+  ],
+  "author": "Ibragimov \"MpaK\" Renat <renat@aomega.co> (http://aomega.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpakus/ccxt-server/issues"
+  },
+  "homepage": "https://github.com/mpakus/ccxt-server#readme"
+}
