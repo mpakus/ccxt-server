@@ -9,10 +9,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "bin": {
-    "run": "bin/ccxt-server.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-server": "bin/ccxt-server.js"
   },
   "repository": {
     "type": "git",
