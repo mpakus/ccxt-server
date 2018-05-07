@@ -1,6 +1,6 @@
 {
   "name": "ccxt-server",
-  "version": "1.0.0",
+  "version": "0.9.1",
   "description": "CCXT Node.js REST Server",
   "main": "index.js",
   "dependencies": {
@@ -10,6 +10,9 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start-server": "bin/ccxt-server.js"
+  },
+  "bin": {
     "start-server": "bin/ccxt-server.js"
   },
   "repository": {
